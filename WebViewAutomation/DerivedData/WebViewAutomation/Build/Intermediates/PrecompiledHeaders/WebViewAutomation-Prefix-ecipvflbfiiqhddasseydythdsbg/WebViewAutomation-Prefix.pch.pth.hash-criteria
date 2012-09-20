@@ -1,0 +1,73 @@
+Contents of /Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/WebViewAutomation-Prefix.pch
+4.1 (tags/Apple/clang-421.11.65) (based on LLVM 3.1svn)
+i386-apple-darwin12.1.0
+-x
+objective-c
+-arch
+i386
+-fmessage-length=0
+-std=gnu99
+-fobjc-arc
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-mios-simulator-version-min=5.0
+-I.
+-IDerivedData
+-IWebViewAutomation
+-IDerivedData/WebViewAutomation
+-IWebViewAutomation/DTCoreText
+-IDerivedData/WebViewAutomation/Build
+-IDerivedData/WebViewAutomation/Index
+-IDerivedData/WebViewAutomation/Logs
+-IWebViewAutomation/DTCoreText/Core
+-IWebViewAutomation/DTCoreText/Demo
+-IDerivedData/WebViewAutomation/Build/Intermediates
+-IDerivedData/WebViewAutomation/Index/Debug
+-IDerivedData/WebViewAutomation/Index/PrecompiledHeaders
+-IDerivedData/WebViewAutomation/Logs/Build
+-IDerivedData/WebViewAutomation/Logs/Debug
+-IDerivedData/WebViewAutomation/Logs/GPUDebuggerLog
+-IDerivedData/WebViewAutomation/Logs/Issues
+-IDerivedData/WebViewAutomation/Logs/SCM
+-IDerivedData/WebViewAutomation/Logs/Test
+-IWebViewAutomation/DTCoreText/Core/Source
+-IWebViewAutomation/DTCoreText/Core/Test
+-IWebViewAutomation/DTCoreText/Demo/Resources
+-IWebViewAutomation/DTCoreText/Demo/Source
+-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build
+-IDerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders
+-IDerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build
+-IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386
+-IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DemoApp-Prefix-dmumrbyioekrnsdlfuutwbhoewmy_ast
+-IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DTCoreText-Prefix-gayztresejoqvwdqfzlveqovndew_ast
+-IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/MacUnitTest-Prefix-finfrlufragdcxapsdrynyvicljz_ast
+-IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/UnitTest-Prefix-cedcedbsrxahubdvetlorqqxbzqh_ast
+-IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-gzjnahfqajuflcehavpyjqsfpqgp_ast
+-IWebViewAutomation/DTCoreText/Core/Test/Resources
+-IWebViewAutomation/DTCoreText/Core/Test/Source
+-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug
+-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator
+-IDerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator
+-IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386/WebViewAutomation.xcindex
+-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug/MacUnitTest.build
+-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/DemoApp.build
+-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/Static Framework.build
+-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/Static Library (no DTFoundation).build
+-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/Static Library.build
+-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/UnitTest.build
+-IDerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build
+-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/libxml2
+-F/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator
+SDK_PRODUCT_BUILD_VERSION=10A403

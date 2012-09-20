@@ -1,0 +1,724 @@
+TWebViewAutomation
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Info.plist" WebViewAutomation/WebViewAutomation-Info.plist
+cProcessPCH "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch.pth" WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/main.o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMViewController.o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMAppDelegate.o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation" normal i386
+cGenerateDSYMFile "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app.dSYM" "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation"
+cCopyStringsFile "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/en.lproj/InfoPlist.strings" WebViewAutomation/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/en.lproj/VMViewController.xib"
+cCpResource WebViewAutomation/../Default-568h@2x.png DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Default-568h@2x.png
+cTouch "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505A2E010000000000228FD0
+t1348087297
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000505A2E0200000000000F62E0
+t1348087298
+s1008352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505A2E0200000000003DCEF0
+t1348087298
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000505A2E0200000000002CFBE0
+t1348087298
+s2948064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000505A2E0300000000001D57A0
+t1348087299
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505A2E040000000000AB3D60
+t1348087300
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/libxml2.dylib
+c00000000505A2E0A0000000000128820
+t1348087306
+s1214496
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/CGUtils.h
+c00000000505A603100000000000003F6
+t1348100145
+s1014
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTAttributedTextCell.h
+c00000000505A60310000000000000276
+t1348100145
+s630
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTAttributedTextContentView.h
+c00000000505A6031000000000000155E
+t1348100145
+s5470
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTAttributedTextView.h
+c00000000505A603100000000000003A5
+t1348100145
+s933
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCSSListStyle.h
+c00000000505A60310000000000000CE9
+t1348100145
+s3305
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCSSStylesheet.h
+c00000000505A603100000000000006E0
+t1348100145
+s1760
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTColor+HTML.h
+c00000000505A603100000000000016EE
+t1348100145
+s5870
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCompatibility.h
+c00000000505A603100000000000002F2
+t1348100145
+s754
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCoreText.h
+c00000000505A603100000000000005E5
+t1348100145
+s1509
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCoreTextConstants.h
+c00000000505A6031000000000000070E
+t1348100145
+s1806
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCoreTextFontCollection.h
+c00000000505A603100000000000001FF
+t1348100145
+s511
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCoreTextFontDescriptor.h
+c00000000505A603100000000000007AA
+t1348100145
+s1962
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCoreTextGlyphRun.h
+c00000000505A60310000000000000568
+t1348100145
+s1384
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCoreTextLayoutFrame.h
+c00000000505A60310000000000001F4B
+t1348100145
+s8011
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCoreTextLayoutLine.h
+c00000000505A6031000000000000098C
+t1348100145
+s2444
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCoreTextLayouter.h
+c00000000505A603100000000000003B0
+t1348100145
+s944
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTCoreTextParagraphStyle.h
+c00000000505A603100000000000015C4
+t1348100145
+s5572
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTHTMLAttributedStringBuilder.h
+c00000000505A603100000000000005FE
+t1348100145
+s1534
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTHTMLElement.h
+c00000000505A60310000000000000A9C
+t1348100145
+s2716
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTHTMLParser.h
+c00000000505A60310000000000001D77
+t1348100145
+s7543
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTImage+HTML.h
+c00000000505A6031000000000000037E
+t1348100145
+s894
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTLazyImageView.h
+c00000000505A603100000000000002CB
+t1348100145
+s715
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTLinkButton.h
+c00000000505A60310000000000000532
+t1348100145
+s1330
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTTextAttachment.h
+c00000000505A60310000000000000B84
+t1348100145
+s2948
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTTextBlock.h
+c00000000505A60310000000000000247
+t1348100145
+s583
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/DTWebVideoView.h
+c00000000505A60310000000000000254
+t1348100145
+s596
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSAttributedString+DTCoreText.h
+c00000000505A60310000000000000B24
+t1348100145
+s2852
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSAttributedString+HTML.h
+c00000000505A603100000000000007D0
+t1348100145
+s2000
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSAttributedString+SmallCaps.h
+c00000000505A603100000000000003DE
+t1348100145
+s990
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSAttributedStringRunDelegates.h
+c00000000505A60310000000000000236
+t1348100145
+s566
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSCharacterSet+HTML.h
+c00000000505A603100000000000008CC
+t1348100145
+s2252
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSData+DTBase64.h
+c00000000505A603100000000000006C5
+t1348100145
+s1733
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSMutableAttributedString+HTML.h
+c00000000505A6031000000000000049E
+t1348100145
+s1182
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSMutableString+HTML.h
+c00000000505A60310000000000000176
+t1348100145
+s374
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSScanner+HTML.h
+c00000000505A60310000000000000242
+t1348100145
+s578
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSString+CSS.h
+c00000000505A60310000000000000906
+t1348100145
+s2310
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSString+HTML.h
+c00000000505A60310000000000000ACA
+t1348100145
+s2762
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/NSString+Paragraphs.h
+c00000000505A6031000000000000029A
+t1348100145
+s666
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/DTCoreText/UIDevice+DTSimpleVersion.h
+c00000000505A603100000000000003C2
+t1348100145
+s962
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch.pth
+t1348100676
+s5464784
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-ecipvflbfiiqhddasseydythdsbg/WebViewAutomation-Prefix.pch.pth
+t1348100145
+s5464076
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-fcerrzgvhbdabrfjbswhuhdgdpjn/WebViewAutomation-Prefix.pch.pth
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-fcwdqvtpuwbnbtbzpteisqgxlktz/WebViewAutomation-Prefix.pch.pth
+t2
+s0
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMAppDelegate.o
+t1348104942
+s91300
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMViewController.o
+t1348106825
+s108156
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/WebViewAutomation.LinkFileList
+c00000000505A60310000000000000270
+t1348100145
+s624
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/main.o
+t1348100676
+s3364
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app
+t1348106825
+s238
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app.dSYM
+t1348106825
+s102
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Default-568h@2x.png
+t1348100676
+s18594
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Info.plist
+t1348100145
+s841
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/PkgInfo
+t1348100145
+s8
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation
+t1348106825
+s69608
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/en.lproj/InfoPlist.strings
+t1348100146
+s42
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/en.lproj/VMViewController.nib
+t1348100147
+s2983
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/libDTCoreText.a
+c00000000505A603100000000001C03E0
+t1348100145
+s1836000
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/../Default-568h@2x.png
+c000000005049BB1000000000000048A2
+t1347009296
+s18594
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/CGUtils.h
+c0000000050569AA400000000000003F6
+t1347852964
+s1014
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTAttributedTextCell.h
+c0000000050569AA40000000000000276
+t1347852964
+s630
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTAttributedTextContentView.h
+c0000000050569AA4000000000000155E
+t1347852964
+s5470
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTAttributedTextView.h
+c0000000050569AA400000000000003A5
+t1347852964
+s933
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCSSListStyle.h
+c0000000050569AA40000000000000CE9
+t1347852964
+s3305
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCSSStylesheet.h
+c0000000050569AA400000000000006E0
+t1347852964
+s1760
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTColor+HTML.h
+c0000000050569AA400000000000016EE
+t1347852964
+s5870
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCompatibility.h
+c0000000050569AA400000000000002F2
+t1347852964
+s754
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreText.h
+c0000000050569AA400000000000005E5
+t1347852964
+s1509
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreTextConstants.h
+c0000000050569AA4000000000000070E
+t1347852964
+s1806
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreTextFontCollection.h
+c0000000050569AA400000000000001FF
+t1347852964
+s511
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreTextFontDescriptor.h
+c0000000050569AA400000000000007AA
+t1347852964
+s1962
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreTextGlyphRun.h
+c0000000050569AA40000000000000568
+t1347852964
+s1384
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreTextLayoutFrame.h
+c0000000050569AA40000000000001F4B
+t1347852964
+s8011
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreTextLayoutLine.h
+c0000000050569AA4000000000000098C
+t1347852964
+s2444
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreTextLayouter.h
+c0000000050569AA400000000000003B0
+t1347852964
+s944
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreTextParagraphStyle.h
+c0000000050569AA400000000000015C4
+t1347852964
+s5572
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTHTMLAttributedStringBuilder.h
+c0000000050569AA400000000000005FE
+t1347852964
+s1534
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTHTMLElement.h
+c0000000050569AA40000000000000A9C
+t1347852964
+s2716
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTHTMLParser.h
+c0000000050569AA40000000000001D77
+t1347852964
+s7543
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTImage+HTML.h
+c0000000050569AA4000000000000037E
+t1347852964
+s894
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTLazyImageView.h
+c0000000050569AA400000000000002CB
+t1347852964
+s715
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTLinkButton.h
+c0000000050569AA40000000000000532
+t1347852964
+s1330
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTTextAttachment.h
+c0000000050569AA40000000000000B84
+t1347852964
+s2948
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTTextBlock.h
+c0000000050569AA40000000000000247
+t1347852964
+s583
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTWebVideoView.h
+c0000000050569AA40000000000000254
+t1347852964
+s596
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSAttributedString+DTCoreText.h
+c0000000050569AA40000000000000B24
+t1347852964
+s2852
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSAttributedString+HTML.h
+c0000000050569AA400000000000007D0
+t1347852964
+s2000
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSAttributedString+SmallCaps.h
+c0000000050569AA400000000000003DE
+t1347852964
+s990
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSAttributedStringRunDelegates.h
+c0000000050569AA40000000000000236
+t1347852964
+s566
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSCharacterSet+HTML.h
+c0000000050569AA400000000000008CC
+t1347852964
+s2252
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSData+DTBase64.h
+c0000000050569AA400000000000006C5
+t1347852964
+s1733
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSMutableAttributedString+HTML.h
+c0000000050569AA4000000000000049E
+t1347852964
+s1182
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSMutableString+HTML.h
+c0000000050569AA40000000000000176
+t1347852964
+s374
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSScanner+HTML.h
+c0000000050569AA40000000000000242
+t1347852964
+s578
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSString+CSS.h
+c0000000050569AA40000000000000906
+t1347852964
+s2310
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSString+HTML.h
+c0000000050569AA40000000000000ACA
+t1347852964
+s2762
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/NSString+Paragraphs.h
+c0000000050569AA4000000000000029A
+t1347852964
+s666
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/UIDevice+DTSimpleVersion.h
+c0000000050569AA400000000000003C2
+t1347852964
+s962
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMAppDelegate.h
+c0000000050592C0E000000000000017E
+t1348021262
+s382
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMAppDelegate.m
+c0000000050592C0E0000000000000915
+t1348021262
+s2325
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMViewController.h
+c00000000505A711F0000000000000321
+t1348104479
+s801
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMViewController.m
+c00000000505A7A490000000000001E7A
+t1348106825
+s7802
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/WebViewAutomation-Prefix.pch
+c00000000505A5F1D000000000000016C
+t1348099869
+s364
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/en.lproj/InfoPlist.strings
+c0000000050592C0E000000000000002D
+t1348021262
+s45
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/en.lproj/VMViewController.xib
+c000000005059354C00000000000047B7
+t1348023628
+s18359
+
+N/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/main.m
+c0000000050592C0E000000000000015E
+t1348021262
+s350
+
+NWebViewAutomation/WebViewAutomation-Info.plist
+c0000000050592C0E0000000000000493
+t1348021262
+s1171
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMAppDelegate.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMViewController.m"
+r0
+
+CBuild AST from "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies396477fdb20ab641^9a9377fdb20ab641^---0#1#0#--18"Check dependencies36"22BD4F16-D1E7-4251-957A-5C7A2B29B188-
+
+CCompileC DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMAppDelegate.o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369797742.484479
+e369797742.549933
+r1
+xCompileC
+xDerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMAppDelegate.o
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMAppDelegate.mcf317c6eaa0ab641^7ec78c6eaa0ab641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/WebViewAutomation/VMAppDelegate.m0000000000000000^5710"CompileC DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMAppDelegate.o WebViewAutomation/VMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/WebViewAutomation.hmap" -I. -IDerivedData -IWebViewAutomation -IDerivedData/WebViewAutomation -IWebViewAutomation/DTCoreText -IDerivedData/WebViewAutomation/Build -IDerivedData/WebViewAutomation/Index -IDerivedData/WebViewAutomation/Logs -IDerivedData/WebViewAutomation/TextIndex -IWebViewAutomation/DTCoreText/Core -IWebViewAutomation/DTCoreText/Demo -IDerivedData/WebViewAutomation/Build/DTCoreText -IDerivedData/WebViewAutomation/Index/Debug -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders -IDerivedData/WebViewAutomation/Logs/Build -IDerivedData/WebViewAutomation/Logs/Debug -IDerivedData/WebViewAutomation/Logs/GPUDebuggerLog -IDerivedData/WebViewAutomation/Logs/Issues -IDerivedData/WebViewAutomation/Logs/SCM -IDerivedData/WebViewAutomation/Logs/Test -IWebViewAutomation/DTCoreText/Core/Source -IWebViewAutomation/DTCoreText/Core/Test -IWebViewAutomation/DTCoreText/Demo/Resources -IWebViewAutomation/DTCoreText/Demo/Source -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386 -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DemoApp-Prefix-dmumrbyioekrnsdlfuutwbhoewmy_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DTCoreText-Prefix-gayztresejoqvwdqfzlveqovndew_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/MacUnitTest-Prefix-finfrlufragdcxapsdrynyvicljz_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/UnitTest-Prefix-cedcedbsrxahubdvetlorqqxbzqh_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bnbgxmaxripypodledbwizsmgwwk_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bubnrrwppdhgiretrkzjddwwciko_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-gzjnahfqajuflcehavpyjqsfpqgp_ast -IWebViewAutomation/DTCoreText/Core/Test/Resources -IWebViewAutomation/DTCoreText/Core/Test/Source -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386/WebViewAutomation.xcindex "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/libxml2 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator" -include "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMAppDelegate.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMAppDelegate.dia" -c "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMAppDelegate.m" -o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMAppDelegate.o"36"E0BBF23E-DB45-4066-BC2A-37D3EA0A860E-
+
+CCompileC DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMViewController.o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369799625.688350
+e369799625.761974
+r1
+xCompileC
+xDerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMViewController.o
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMViewController.m0c56b0c9b10ab641^7c0fc3c9b10ab641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/WebViewAutomation/VMViewController.m0000000000000000^5728"CompileC DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMViewController.o WebViewAutomation/VMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/WebViewAutomation.hmap" -I. -IDerivedData -IWebViewAutomation -IDerivedData/WebViewAutomation -IWebViewAutomation/DTCoreText -IDerivedData/WebViewAutomation/Build -IDerivedData/WebViewAutomation/Index -IDerivedData/WebViewAutomation/Logs -IDerivedData/WebViewAutomation/TextIndex -IWebViewAutomation/DTCoreText/Core -IWebViewAutomation/DTCoreText/Demo -IDerivedData/WebViewAutomation/Build/DTCoreText -IDerivedData/WebViewAutomation/Index/Debug -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders -IDerivedData/WebViewAutomation/Logs/Build -IDerivedData/WebViewAutomation/Logs/Debug -IDerivedData/WebViewAutomation/Logs/GPUDebuggerLog -IDerivedData/WebViewAutomation/Logs/Issues -IDerivedData/WebViewAutomation/Logs/SCM -IDerivedData/WebViewAutomation/Logs/Test -IWebViewAutomation/DTCoreText/Core/Source -IWebViewAutomation/DTCoreText/Core/Test -IWebViewAutomation/DTCoreText/Demo/Resources -IWebViewAutomation/DTCoreText/Demo/Source -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386 -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DemoApp-Prefix-dmumrbyioekrnsdlfuutwbhoewmy_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DTCoreText-Prefix-gayztresejoqvwdqfzlveqovndew_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/MacUnitTest-Prefix-finfrlufragdcxapsdrynyvicljz_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/UnitTest-Prefix-cedcedbsrxahubdvetlorqqxbzqh_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bnbgxmaxripypodledbwizsmgwwk_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bubnrrwppdhgiretrkzjddwwciko_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-gzjnahfqajuflcehavpyjqsfpqgp_ast -IWebViewAutomation/DTCoreText/Core/Test/Resources -IWebViewAutomation/DTCoreText/Core/Test/Source -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386/WebViewAutomation.xcindex "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/libxml2 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator" -include "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMViewController.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMViewController.dia" -c "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/VMViewController.m" -o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/VMViewController.o"36"20783DB7-2457-4E38-9E56-7127CB696CCF-
+
+CCompileC DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/main.o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369793476.717986
+e369793476.742220
+r1
+xCompileC
+xDerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/main.o
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/main.mb7f1b7c4990ab641^1904bec4990ab641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/WebViewAutomation/main.m0000000000000000^5656"CompileC DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/main.o WebViewAutomation/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/WebViewAutomation.hmap" -I. -IDerivedData -IWebViewAutomation -IDerivedData/WebViewAutomation -IWebViewAutomation/DTCoreText -IDerivedData/WebViewAutomation/Build -IDerivedData/WebViewAutomation/Index -IDerivedData/WebViewAutomation/Logs -IDerivedData/WebViewAutomation/TextIndex -IWebViewAutomation/DTCoreText/Core -IWebViewAutomation/DTCoreText/Demo -IDerivedData/WebViewAutomation/Build/DTCoreText -IDerivedData/WebViewAutomation/Index/Debug -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders -IDerivedData/WebViewAutomation/Logs/Build -IDerivedData/WebViewAutomation/Logs/Debug -IDerivedData/WebViewAutomation/Logs/GPUDebuggerLog -IDerivedData/WebViewAutomation/Logs/Issues -IDerivedData/WebViewAutomation/Logs/SCM -IDerivedData/WebViewAutomation/Logs/Test -IWebViewAutomation/DTCoreText/Core/Source -IWebViewAutomation/DTCoreText/Core/Test -IWebViewAutomation/DTCoreText/Demo/Resources -IWebViewAutomation/DTCoreText/Demo/Source -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386 -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DemoApp-Prefix-dmumrbyioekrnsdlfuutwbhoewmy_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DTCoreText-Prefix-gayztresejoqvwdqfzlveqovndew_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/MacUnitTest-Prefix-finfrlufragdcxapsdrynyvicljz_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/UnitTest-Prefix-cedcedbsrxahubdvetlorqqxbzqh_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bnbgxmaxripypodledbwizsmgwwk_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bubnrrwppdhgiretrkzjddwwciko_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-gzjnahfqajuflcehavpyjqsfpqgp_ast -IWebViewAutomation/DTCoreText/Core/Test/Resources -IWebViewAutomation/DTCoreText/Core/Test/Source -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386/WebViewAutomation.xcindex "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/libxml2 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator" -include "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/main.dia" -c "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/main.m" -o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/main.o"36"9FB52186-C436-4276-BC91-0B0549119722-
+
+CCompileXIB "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/en.lproj/VMViewController.xib"
+s369792946.115446
+e369792947.971299
+r1
+xCompileXIB
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/en.lproj/VMViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compiling /Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/en.lproj/VMViewController.xib1aa31db2970ab641^1aa8f8b3970ab641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/WebViewAutomation/en.lproj/VMViewController.xib0000000000000000^1040"CompileXIB WebViewAutomation/en.lproj/VMViewController.xib    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/en.lproj/VMViewController.nib" "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/en.lproj/VMViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"9D9AA609-8DB4-4148-9C0F-EBF24B2BE5BC-
+
+CCopyStringsFile "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/en.lproj/InfoPlist.strings" WebViewAutomation/en.lproj/InfoPlist.strings
+s369792946.115465
+e369792946.119812
+r1
+xCopyStringsFile
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/en.lproj/InfoPlist.strings
+xWebViewAutomation/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy WebViewAutomation/en.lproj/InfoPlist.strings8ba41db2970ab641^75ac1eb2970ab641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/WebViewAutomation/en.lproj/InfoPlist.strings0000000000000000^727"CopyStringsFile DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/en.lproj/InfoPlist.strings WebViewAutomation/en.lproj/InfoPlist.strings    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/en.lproj" -- WebViewAutomation/en.lproj/InfoPlist.strings36"66E1CD82-D629-4B89-BD65-C3B532078188-
+
+CCpResource WebViewAutomation/../Default-568h@2x.png DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Default-568h@2x.png
+s369793476.868867
+e369793476.871093
+r1
+xCpResource
+xWebViewAutomation/../Default-568h@2x.png
+xDerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Default-568h@2x.pngfe81dec4990ab641^8a00dfc4990ab641^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Default-568h@2x.png000000000080d041^777"CpResource "WebViewAutomation/../Default-568h@2x.png" "DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Default-568h@2x.png"    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/../Default-568h@2x.png" "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app"36"F46585CE-802A-4ED1-AFCB-301CA0D4A09C-
+
+CGenerateDSYMFile "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app.dSYM" "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation"
+s369799625.807281
+e369799625.827294
+r1
+xGenerateDSYMFile
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app.dSYM
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Generating /Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app.dSYM30b8cec9b10ab641^3bc8d3c9b10ab641^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app.dSYM/0000000000000000^892"GenerateDSYMFile DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app.dSYM DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation" -o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app.dSYM"36"332B56D2-905E-428B-ACFE-20ABBC2E97E9-
+
+CLd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation" normal i386
+s369799625.775242
+e369799625.800515
+r1
+xLd
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"Link /Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation6589c6c9b10ab641^afeeccc9b10ab641^---0#0#0#--1709"Ld DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation normal i386    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk "-L/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator" "-F/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator" -filelist "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/Objects-normal/i386/WebViewAutomation.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework CoreText -lxml2 -framework QuartzCore -framework ImageIO "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/libDTCoreText.a" -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/WebViewAutomation"36"DB4D73C1-73E8-4ACD-B575-D73787A4C5E7-
+
+CProcessInfoPlistFile "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Info.plist" WebViewAutomation/WebViewAutomation-Info.plist
+s369792945.484555
+e369792945.487538
+r1
+xProcessInfoPlistFile
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Info.plist
+xWebViewAutomation/WebViewAutomation-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Process WebViewAutomation/WebViewAutomation-Info.plist541b7cb1970ab641^6ccf7cb1970ab641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/WebViewAutomation/WebViewAutomation-Info.plist0000000000000000^888"ProcessInfoPlistFile DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Info.plist WebViewAutomation/WebViewAutomation-Info.plist    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WebViewAutomation/WebViewAutomation-Info.plist -genpkginfo "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app/Info.plist"36"4BD00D81-16F6-4E8A-BBF2-1FE45045242C-
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch.pth" WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369793476.444390
+e369793476.710959
+r1
+xProcessPCH
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch.pth
+xWebViewAutomation/WebViewAutomation-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile WebViewAutomation/WebViewAutomation-Prefix.pch97e371c4990ab641^0401b6c4990ab641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/WebViewAutomation/WebViewAutomation-Prefix.pch0000000000000000^5524"ProcessPCH DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch.pth WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/WebViewAutomation.hmap" -I. -IDerivedData -IWebViewAutomation -IDerivedData/WebViewAutomation -IWebViewAutomation/DTCoreText -IDerivedData/WebViewAutomation/Build -IDerivedData/WebViewAutomation/Index -IDerivedData/WebViewAutomation/Logs -IDerivedData/WebViewAutomation/TextIndex -IWebViewAutomation/DTCoreText/Core -IWebViewAutomation/DTCoreText/Demo -IDerivedData/WebViewAutomation/Build/DTCoreText -IDerivedData/WebViewAutomation/Index/Debug -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders -IDerivedData/WebViewAutomation/Logs/Build -IDerivedData/WebViewAutomation/Logs/Debug -IDerivedData/WebViewAutomation/Logs/GPUDebuggerLog -IDerivedData/WebViewAutomation/Logs/Issues -IDerivedData/WebViewAutomation/Logs/SCM -IDerivedData/WebViewAutomation/Logs/Test -IWebViewAutomation/DTCoreText/Core/Source -IWebViewAutomation/DTCoreText/Core/Test -IWebViewAutomation/DTCoreText/Demo/Resources -IWebViewAutomation/DTCoreText/Demo/Source -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386 -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DemoApp-Prefix-dmumrbyioekrnsdlfuutwbhoewmy_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DTCoreText-Prefix-gayztresejoqvwdqfzlveqovndew_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/MacUnitTest-Prefix-finfrlufragdcxapsdrynyvicljz_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/UnitTest-Prefix-cedcedbsrxahubdvetlorqqxbzqh_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bnbgxmaxripypodledbwizsmgwwk_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bubnrrwppdhgiretrkzjddwwciko_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-gzjnahfqajuflcehavpyjqsfpqgp_ast -IWebViewAutomation/DTCoreText/Core/Test/Resources -IWebViewAutomation/DTCoreText/Core/Test/Source -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386/WebViewAutomation.xcindex "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/libxml2 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch.dia" -c "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/WebViewAutomation-Prefix.pch" -o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-afjvzwartksoaxfogtwgkdhrldoy/WebViewAutomation-Prefix.pch.d"36"DB227280-724C-489B-B7FC-F2AAC3FB5443-
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-ecipvflbfiiqhddasseydythdsbg/WebViewAutomation-Prefix.pch.pth" WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369792945.495448
+e369792945.761459
+r1
+xProcessPCH
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-ecipvflbfiiqhddasseydythdsbg/WebViewAutomation-Prefix.pch.pth
+xWebViewAutomation/WebViewAutomation-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile WebViewAutomation/WebViewAutomation-Prefix.pch8cf87eb1970ab641^d0f0c2b1970ab641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/Robby/Desktop/Xcode%20Projects/WebViewAutomation/WebViewAutomation/WebViewAutomation-Prefix.pch0000000000000000^6523"ProcessPCH DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-ecipvflbfiiqhddasseydythdsbg/WebViewAutomation-Prefix.pch.pth WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/WebViewAutomation.hmap" -I. -IDerivedData -IWebViewAutomation -IDerivedData/WebViewAutomation -IWebViewAutomation/DTCoreText -IDerivedData/WebViewAutomation/Build -IDerivedData/WebViewAutomation/Index -IDerivedData/WebViewAutomation/Logs -IWebViewAutomation/DTCoreText/Core -IWebViewAutomation/DTCoreText/Demo -IDerivedData/WebViewAutomation/Build/Intermediates -IDerivedData/WebViewAutomation/Index/Debug -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders -IDerivedData/WebViewAutomation/Logs/Build -IDerivedData/WebViewAutomation/Logs/Debug -IDerivedData/WebViewAutomation/Logs/GPUDebuggerLog -IDerivedData/WebViewAutomation/Logs/Issues -IDerivedData/WebViewAutomation/Logs/SCM -IDerivedData/WebViewAutomation/Logs/Test -IWebViewAutomation/DTCoreText/Core/Source -IWebViewAutomation/DTCoreText/Core/Test -IWebViewAutomation/DTCoreText/Demo/Resources -IWebViewAutomation/DTCoreText/Demo/Source -IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build -IDerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders -IDerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386 -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DemoApp-Prefix-dmumrbyioekrnsdlfuutwbhoewmy_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/DTCoreText-Prefix-gayztresejoqvwdqfzlveqovndew_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/MacUnitTest-Prefix-finfrlufragdcxapsdrynyvicljz_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/UnitTest-Prefix-cedcedbsrxahubdvetlorqqxbzqh_ast -IDerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-gzjnahfqajuflcehavpyjqsfpqgp_ast -IWebViewAutomation/DTCoreText/Core/Test/Resources -IWebViewAutomation/DTCoreText/Core/Test/Source -IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug -IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator -IDerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator -IDerivedData/WebViewAutomation/Index/Debug/iphonesimulator6.0-i386/WebViewAutomation.xcindex -IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug/MacUnitTest.build -IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/DemoApp.build "-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/Static Framework.build" "-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/Static Library (no DTFoundation).build" "-IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/Static Library.build" -IDerivedData/WebViewAutomation/Build/Intermediates/DTCoreText.build/Debug-iphonesimulator/UnitTest.build -IDerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/libxml2 "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources/i386" "-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/WebViewAutomation.build/Debug-iphonesimulator/WebViewAutomation.build/DerivedSources" "-F/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-ecipvflbfiiqhddasseydythdsbg/WebViewAutomation-Prefix.pch.dia" -c "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/WebViewAutomation-Prefix.pch" -o "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-ecipvflbfiiqhddasseydythdsbg/WebViewAutomation-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-ecipvflbfiiqhddasseydythdsbg/WebViewAutomation-Prefix.pch.d"36"CE00E0DE-8AE5-4ABC-BC9E-9FE6700FF004-
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-fcerrzgvhbdabrfjbswhuhdgdpjn/WebViewAutomation-Prefix.pch.pth" WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Intermediates/PrecompiledHeaders/WebViewAutomation-Prefix-fcwdqvtpuwbnbtbzpteisqgxlktz/WebViewAutomation-Prefix.pch.pth" WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bnbgxmaxripypodledbwizsmgwwk_ast/WebViewAutomation-Prefix.pch.pth" WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-bubnrrwppdhgiretrkzjddwwciko_ast/WebViewAutomation-Prefix.pch.pth" WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-gukutrosxygohugcagmbsyksbepp_ast/WebViewAutomation-Prefix.pch.pth" WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Index/PrecompiledHeaders/WebViewAutomation-Prefix-gzjnahfqajuflcehavpyjqsfpqgp_ast/WebViewAutomation-Prefix.pch.pth" WebViewAutomation/WebViewAutomation-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app"
+s369799625.843459
+e369799625.848506
+r1
+xTouch
+x/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Touch /Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.appdbf8d7c9b10ab641^2638d9c9b10ab641^---0#0#0#--520"Touch DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app    cd "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/WebViewAutomation.app"36"394D60CA-C2CF-465B-AC11-EA51AA463A47-
+

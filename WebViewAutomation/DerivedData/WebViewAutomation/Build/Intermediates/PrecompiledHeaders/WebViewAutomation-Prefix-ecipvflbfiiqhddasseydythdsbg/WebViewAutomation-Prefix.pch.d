@@ -1,0 +1,41 @@
+dependencies: \
+  /Users/Robby/Desktop/Xcode\ Projects/WebViewAutomation/WebViewAutomation/WebViewAutomation-Prefix.pch \
+  /Users/Robby/Desktop/Xcode\ Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source/DTCoreText.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCoreTextConstants.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCompatibility.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTColor+HTML.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTImage+HTML.h \
+  WebViewAutomation/DTCoreText/Core/Source/CGUtils.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCSSListStyle.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTTextBlock.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCSSStylesheet.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCoreTextFontDescriptor.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTHTMLElement.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTTextAttachment.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSCharacterSet+HTML.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSData+DTBase64.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSScanner+HTML.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSMutableString+HTML.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSString+CSS.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSString+HTML.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSString+Paragraphs.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCoreTextParagraphStyle.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSMutableAttributedString+HTML.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSAttributedString+HTML.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSAttributedString+SmallCaps.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSAttributedString+DTCoreText.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTHTMLAttributedStringBuilder.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTHTMLParser.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTLazyImageView.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTLinkButton.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTWebVideoView.h \
+  WebViewAutomation/DTCoreText/Core/Source/NSAttributedStringRunDelegates.h \
+  WebViewAutomation/DTCoreText/Core/Source/UIDevice+DTSimpleVersion.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTAttributedTextCell.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTAttributedTextContentView.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTAttributedTextView.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCoreTextFontCollection.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCoreTextGlyphRun.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCoreTextLayoutFrame.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCoreTextLayoutLine.h \
+  WebViewAutomation/DTCoreText/Core/Source/DTCoreTextLayouter.h

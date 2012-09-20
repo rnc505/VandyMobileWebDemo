@@ -1,0 +1,25 @@
+Contents of /Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/DTCoreText-Prefix.pch
+4.1 (tags/Apple/clang-421.11.65) (based on LLVM 3.1svn)
+i386-apple-darwin12.1.0
+-x
+c
+-arch
+i386
+-fmessage-length=0
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+-fexceptions
+-fasm-blocks
+-g
+-mios-simulator-version-min=4.2
+-iquote
+-iquote
+-iquote/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/WebViewAutomation/DTCoreText/Core/Source
+-I/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/libxml2
+-F/Users/Robby/Desktop/Xcode Projects/WebViewAutomation/DerivedData/WebViewAutomation/Build/Products/Debug-iphonesimulator
+SDK_PRODUCT_BUILD_VERSION=10A403
